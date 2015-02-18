@@ -1,0 +1,44 @@
+@charset "utf-8";
+.header_style {
+	background-color: #FFF;
+	overflow: visible;
+	position: absolute;
+	z-index: auto;
+	height: auto;
+	width: auto;
+	top: auto;
+	clip: rect(auto,auto,auto,auto);
+	font-family: "MS Serif", "New York", serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	left: 40%;
+	right: auto;
+	bottom: auto;
+	background-image: none;
+}
+.bg_style {
+	background-image: url(../pic/bg.jpg);
+	background-color: #0C9;
+}
+
+.body_style {
+	left: 40%;
+	top: 200px;
+	right: auto;
+	bottom: auto;
+	background-image: none;
+	position: absolute;
+	height: auto;
+	width: auto;
+}
+.html_style {
+	background-image: url(../pic/bg.jpg);
+}
+.url {
+	font-size: 18px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: normal;
+	background-color: #9FF;
+}
